@@ -23,7 +23,6 @@ app/
   services/certificate_service.py  Fixed PDF certificate design
   services/job_service.py          Per-recipient processing and status updates
 certificates/             Generated PDFs, one per recipient
-templates/                Reserved for future static template assets
 tests/                    Automated tests
 ```
 
